@@ -1,1 +1,4 @@
-# online-store
+# мой перывй интернет магазин
+
+- можно посмотреть здесь https://github.com/viktor1982m/online-store
+- разпив нишевых парфумов
